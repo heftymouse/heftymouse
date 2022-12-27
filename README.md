@@ -9,6 +9,8 @@
 📫 Contact me at heftymouse#2876 on Discord
 
 🤔 Fact: Bears eat beets. Bears. Beets. Battlestar Galactica. 
+
+![](https://komarev.com/ghpvc/?username=heftymouse&color=blue)
 <!--
 **heftymouse/heftymouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
