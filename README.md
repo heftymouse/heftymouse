@@ -6,7 +6,7 @@
 
 👀 Feel free to check out my stuff (only the pinned repos, the rest is a waste of time)
 
-📫 Contact me at heftymouse#2876 on Discord
+📫 Contact me at heftymouse on Discord
 
 🤔 Fact: Bears eat beets. Bears. Beets. Battlestar Galactica. 
 
