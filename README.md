@@ -4,7 +4,7 @@
 
 👨‍💻 I'm interested in Windows and web apps and Discord bots
 
-👀 Feel free to check out my stuff (only the pinned repos, the rest is a waste of time)
+👀 Feel free to check out my pinned repos, also [amrita.town](https://amrita.town)
 
 📫 Contact me at heftymouse on Discord
 
